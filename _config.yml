@@ -16,7 +16,7 @@ timezone:
 
 title: maram # the main title
 
-tagline:   Security engineer explaining things in the digital world.
+tagline:   CyberSecurity Engineer student working in the digital world.
  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
@@ -27,11 +27,15 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: maramraboudi # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: hyd_seek # change to your Twitter username
 
+facebook:
+  username: maram.raboudi.35 # change to your Facebook username
+linkedin:
+  username: maram-raboudi-4801aa336 # change to your Linked
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -40,9 +44,9 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://x.com/hyd_seek # change to your Twitter homepage
-    - https://github.com/maramraboudi # change to your GitHub homepage
-    # Uncomment below to add more social links
+    - https://medium.com/@maram.raboudi
+    - https://x.com/hyd_seek 
+    - https://github.com/maramraboudi 
     - https://www.facebook.com/maram.raboudi.35
     - https://www.linkedin.com/in/maram-raboudi-4801aa336/
 
