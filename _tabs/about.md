@@ -5,20 +5,20 @@ order: 4
 
 ## WhoAmI?
 
-Hey! I'm Maram, from Tunisia, and my ctf nickname is `HydSec`!
+Hey! I’m Maram, a cybersecurity engineering student from Tunisia, and my CTF nickname is `HydSec`.
 
-I'm a 23-year-old cybersecurity engineering student, currently working on the defensive side while actively sharpening my offensive skills, AI knowledge and malware analysis. This website was created to host my write-ups, notes, and thoughts from my journey towards becoming a penetration tester.
+I focus on **SOC operations, SIEM, Windows security, and threat detection**, with a strong offensive-security background developed through CTFs, penetration-testing labs, and security research.
 
-There is quite an interesting tension between working in defense and learning to attack, but I find that understanding both sides makes you sharper at each. Knowing how defenders think makes you a better attacker, and knowing how attackers operate makes you a far better defender.
+## What do I do?
 
-## What is my experience?
+I have hands-on experience with **Windows Event Logs, Event Viewer, PowerShell, Active Directory, Splunk, log analysis, threat detection, and incident investigation**. I enjoy turning raw security events into meaningful findings and understanding the attack techniques behind them.
 
-I'm an undergraduate cybersecurity engineering student, currently part of the **blue team**  working on threat detection, monitoring, and incident response. Alongside that, I actively compete in CTF competitions as a member of **[@EagleDefenders](https://github.com/EagleDefenders)**, a Tunisian CTF team.
+I also completed a **Cybersecurity Consulting internship at EY Tunisia**, where I gained experience working in a professional cybersecurity environment and contributed to security-related projects.
 
-I started this journey with a passion for understanding how systems break. CTFs gave me the hands-on experience that no classroom could, from web exploitation and Digital Forensics to full active directory attack chains on platforms like HackTheBox.
+Beyond university, I continuously develop my skills through **cybersecurity workshops, technical training, CTF competitions, and hands-on labs** covering SOC, SIEM, DFIR, penetration testing, Active Directory, malware analysis, and DevSecOps.
 
-My goal is to transition fully into deffensive security and malware analysis, leveraging the offensive background I've built to approach engagements with a unique perspective.
+I’m always looking for opportunities to **learn, solve difficult security problems, and work with people who are serious about cybersecurity**.
 
 ## Get in touch
 
-If you found anything on this site useful, want to discuss a write-up, or just want to connect — feel free to reach out through any of the links in the sidebar. Always happy to talk security.
+Interested in cybersecurity, collaboration, or simply exchanging ideas? Feel free to reach out through the links in the sidebar.
