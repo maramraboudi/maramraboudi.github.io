@@ -3,13 +3,13 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-## WhoAmI?
+## About Me
 
 Hey! I’m Maram, a cybersecurity engineering student from Tunisia, and my CTF nickname is `HydSec`.
 
 I focus on **SOC operations, SIEM, Windows security, and threat detection**, with a strong offensive-security background developed through CTFs, penetration-testing labs, and security research.
 
-## What do I do?
+## What I Do
 
 I have hands-on experience with **Windows Event Logs, Event Viewer, PowerShell, Active Directory, Splunk, log analysis, threat detection, and incident investigation**. I enjoy turning raw security events into meaningful findings and understanding the attack techniques behind them.
 
@@ -22,3 +22,5 @@ I’m always looking for opportunities to **learn, solve difficult security prob
 ## Get in touch
 
 Interested in cybersecurity, collaboration, or simply exchanging ideas? Feel free to reach out through the links in the sidebar.
+
+Reach me: maram.raboudi@gmail.com
