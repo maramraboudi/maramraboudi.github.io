@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+{% assign sorted_categories = site.categories | sort %}
+
+<div class="category-index-grid">
+  {% for category in sorted_categories %}
+    {% assign category_name = category | first %}
+    {% assign category_posts = category | last %}
+    {% assign post_count = category_posts | size %}
+    {% capture category_url %}/categories/{{ category_name | slugify | url_encode }}/{% endcapture %}
+
+    <article class="portfolio-card category-index-card">
+      <h2><a href="{{ category_url | relative_url }}">{{ category_name }}</a></h2>
+      <p class="category-index-count">
+        {{ post_count }}
+        {% if post_count == 1 %}post{% else %}posts{% endif %}
+      </p>
+    </article>
+  {% endfor %}
+</div>
