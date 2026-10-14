@@ -1,6 +1,6 @@
 ---
 icon: fas fa-certificate
-order: 2
+order: 3
 ---
 
 Content coming soon.
