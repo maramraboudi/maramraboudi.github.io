@@ -2,7 +2,7 @@
 layout: post
 title: "Linux Privilege Escalation: A Comprehensive Exploitation Guide (Cheatsheet)"
 date: 2026-02-02 16:59:59 +0000
-categories: [Cybersecurity, Linux]
+categories: [Linux]
 tags: [linux, privilege-escalation, system-security, credential-security, container-security]
 description: "A Linux privilege-escalation cheatsheet covering permission weaknesses, credential exposure, process memory, and container misconfigurations."
 ---

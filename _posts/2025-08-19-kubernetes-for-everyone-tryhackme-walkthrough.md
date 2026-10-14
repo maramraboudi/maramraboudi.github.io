@@ -2,7 +2,7 @@
 layout: post
 title: "Kubernetes for Everyone: TryHackMe Walkthrough"
 date: 2025-08-19 21:49:26 +0000
-categories: [Writeups, TryHackMe]
+categories: [TryHackMe]
 tags: [kubernetes, kubectl, container-security, grafana, directory-traversal, linux, privilege-escalation]
 description: "A TryHackMe walkthrough covering Grafana file traversal, SSH access, Kubernetes secrets, pod storage, and job output."
 excerpt: "Follow the Kubernetes for Everyone room from initial service enumeration through Grafana file disclosure and Kubernetes cluster investigation."

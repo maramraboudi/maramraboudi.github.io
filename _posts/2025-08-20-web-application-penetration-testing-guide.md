@@ -2,7 +2,7 @@
 layout: post
 title: "The Web Application Penetration Testing Guide"
 date: 2025-08-20 23:27:31 +0000
-categories: [Cybersecurity, Web Security]
+categories: [Web Security]
 tags: [web-application-security, penetration-testing, ethical-hacking, burp-suite, owasp, vulnerability-assessment, security-testing]
 description: "A practical overview of web application penetration testing, safe practice labs, common tools, and responsible testing tips."
 excerpt: "A structured introduction to web application security testing: practice environments, useful tools, and an ethical testing mindset."

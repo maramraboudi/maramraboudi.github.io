@@ -2,7 +2,7 @@
 layout: post
 title: "Authentication Is Not Security—That's When I Switched to Zero Trust"
 date: 2026-04-26 20:36:01 +0000
-categories: [Cybersecurity, Web Security]
+categories: [Web Security]
 tags: [zero-trust, authentication, authorization, web-security, application-security, jwt]
 description: "A personal reflection on why authentication alone does not secure applications, and how Zero Trust principles improve authorization and verification."
 excerpt: "A valid login is only the beginning: validate every request, enforce authorization server-side, and remove implicit trust."

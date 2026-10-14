@@ -2,7 +2,7 @@
 layout: post
 title: "Assessment Methodologies: Information Gathering CTF 1 Writeup"
 date: 2025-01-03 15:35:15 +0000
-categories: [Writeups, INE]
+categories: [INE]
 tags: [information-gathering, reconnaissance, nmap, web-enumeration, wordpress, robots-txt, eJPT]
 description: "An INE Information Gathering CTF walkthrough covering robots.txt, service version detection, directory discovery, exposed backups, and website mirroring."
 excerpt: "A reconnaissance-focused INE CTF walkthrough showing how public website information and exposed files reveal five flags."

@@ -2,7 +2,7 @@
 layout: post
 title: "TryHackMe Wekor: Walkthrough"
 date: 2025-07-07 08:18:29 +0000
-categories: [Writeups, TryHackMe]
+categories: [TryHackMe]
 tags: [web-exploitation, sql-injection, wordpress, memcached, linux, privilege-escalation, penetration-testing]
 description: "A walkthrough of the Wekor TryHackMe room, covering web enumeration, SQL injection, WordPress access, Memcached credentials, and privilege escalation."
 ---
