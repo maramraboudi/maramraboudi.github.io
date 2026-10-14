@@ -1,11 +1,14 @@
 ---
-
 layout: post
-title: "Authentication Is Not Security, That's When I Switched to Zero Trust"
-date: 2026-04-26 18:00:00 +0100
+title: "Authentication Is Not Security—That's When I Switched to Zero Trust"
+date: 2026-04-26 20:36:01 +0000
 categories: [Cybersecurity, Web Security]
 tags: [zero-trust, authentication, authorization, web-security, application-security, jwt]
+description: "A personal reflection on why authentication alone does not secure applications, and how Zero Trust principles improve authorization and verification."
+excerpt: "A valid login is only the beginning: validate every request, enforce authorization server-side, and remove implicit trust."
 ---
+
+![Authentication and Zero Trust](/assets/img/articles/authentication-zero-trust.png)
 
 *"Most applications rely on authentication and call it secure. I did too, until I started breaking my own systems."*
 
@@ -392,3 +395,7 @@ Now, instead of treating authentication as the finish line, I see it as the begi
 **Zero Trust removes the assumption that either one should automatically imply trust.**
 
 And that is the mindset I want to carry into every system I build.
+
+---
+
+*Originally published on [Medium](https://medium.com/@maram.raboudi/authentication-is-not-security-thats-when-i-switched-to-zero-trust-59a3aa7fa1f2).*
