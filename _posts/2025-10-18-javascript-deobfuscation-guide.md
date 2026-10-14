@@ -2,7 +2,7 @@
 layout: post
 title: "A Guide to JavaScript Deobfuscation"
 date: 2025-10-18 16:22:32 +0100
-categories: [Cybersecurity, Reverse Engineering]
+categories: [Reverse Engineering]
 tags: [javascript, deobfuscation, reverse-engineering, malware-analysis, static-analysis, dynamic-analysis]
 description: "A practical guide to understanding obfuscated JavaScript through static and controlled dynamic analysis, defensive tooling, and safe investigation."
 ---

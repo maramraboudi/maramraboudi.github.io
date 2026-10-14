@@ -1,7 +1,7 @@
 ---
 title: "Digital Footprint Challenge: TryHackMe OSINT Write-Up"
 date: 2026-02-08 14:32:57 +0100
-categories: [Writeups, TryHackMe]
+categories: [TryHackMe]
 tags: [OSINT, digital-footprint, geolocation, web-archives, metadata, TryHackMe]
 description: "A spoiler-filled walkthrough of the TryHackMe Digital Footprint challenge, using visual clues, web archives, landmark research, and document metadata."
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Pivoting Techniques"
 date: 2025-07-25 13:23:51 +0000
-categories: [Cybersecurity, Networking]
+categories: [Penetration Testing]
 tags: [pivoting, network-pivoting, ssh-tunneling, red-team, penetration-testing, lateral-movement]
 description: "An overview of port forwarding and multi-hop pivoting in authorized security assessments."
 excerpt: "How port forwarding and chained pivots can provide controlled access to segmented networks during an authorized penetration test."

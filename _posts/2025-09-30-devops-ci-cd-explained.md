@@ -2,7 +2,7 @@
 layout: post
 title: "DevOps CI/CD Explained"
 date: 2025-09-30 18:17:48 +0000
-categories: [Cybersecurity, DevOps]
+categories: [DevSecOps]
 tags: [devops, ci-cd, continuous-integration, continuous-delivery, continuous-deployment, github-actions, automation]
 description: "An introduction to DevOps, continuous integration, continuous delivery and deployment, CI/CD pipelines, tools, and benefits."
 excerpt: "Learn how CI, continuous delivery, and continuous deployment fit together in modern DevOps workflows."
