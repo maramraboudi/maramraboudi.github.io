@@ -11,12 +11,14 @@ layout: page
     {% assign post_count = category_posts | size %}
     {% capture category_url %}/categories/{{ category_name | slugify | url_encode }}/{% endcapture %}
 
-    <article class="portfolio-card category-index-card">
-      <h2><a href="{{ category_url | relative_url }}">{{ category_name }}</a></h2>
-      <p class="category-index-count">
-        {{ post_count }}
-        {% if post_count == 1 %}post{% else %}posts{% endif %}
-      </p>
-    </article>
+    {% unless category_name == 'Events' %}
+      <article class="portfolio-card category-index-card">
+        <h2><a href="{{ category_url | relative_url }}">{{ category_name }}</a></h2>
+        <p class="category-index-count">
+          {{ post_count }}
+          {% if post_count == 1 %}post{% else %}posts{% endif %}
+        </p>
+      </article>
+    {% endunless %}
   {% endfor %}
 </div>
