@@ -1,7 +1,7 @@
 ---
 title: "Hands-On APT Investigation: Volt Typhoon | TryHackMe Writeup"
 date: 2025-11-20 00:00:00 +0000
-categories: [TryHackMe]
+categories: [Writeups, TryHackMe]
 tags: [Volt Typhoon, APT, Incident Response, Splunk, Windows Forensics]
 description: "A comprehensive investigation into the Volt Typhoon APT simulation on TryHackMe, covering initial access, lateral movement, and stealth persistence techniques."
 ---

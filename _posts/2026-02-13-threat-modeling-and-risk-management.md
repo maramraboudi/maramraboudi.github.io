@@ -2,7 +2,7 @@
 layout: post
 title: "Threat Modeling and Risk Management: Thinking Ahead"
 date: 2026-02-13 17:19:00 +0100
-categories: [Risk Management]
+categories: [Cybersecurity]
 tags: [threat-modeling, risk-management, security-design, cybersecurity]
 ---
 

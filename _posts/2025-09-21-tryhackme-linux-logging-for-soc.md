@@ -2,7 +2,7 @@
 layout: post
 title: "TryHackMe Linux Logging for SOC: Answers"
 date: 2025-09-21 20:15:11 +0000
-categories: [TryHackMe]
+categories: [Writeups, TryHackMe]
 tags: [linux, linux-logging, soc, auditd, log-analysis, linux-soc-monitoring]
 description: "A walkthrough of Linux logging sources for SOC investigations, including syslog, authentication logs, Bash history, and auditd."
 ---

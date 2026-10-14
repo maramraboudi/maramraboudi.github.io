@@ -2,7 +2,7 @@
 layout: post
 title: "A Hacker's Guide to Documentation"
 date: 2025-06-12 13:59:20 +0000
-categories: [Penetration Testing]
+categories: [Cybersecurity, Penetration Testing]
 tags: [penetration-testing, security-reporting, vulnerability-assessment, risk-communication, remediation]
 description: "A practical guide to writing clear penetration-testing reports that explain risk, evidence, and remediation to technical and non-technical readers."
 excerpt: "Turn penetration-testing findings into actionable reports with clear summaries, evidence, risk context, and remediation guidance."

@@ -2,7 +2,7 @@
 layout: post
 title: "Chaining Vulnerabilities: TryHackMe Walkthrough"
 date: 2025-09-17 22:53:56 +0000
-categories: [TryHackMe]
+categories: [Writeups, TryHackMe]
 tags: [vulnerability-chaining, web-security, xss, csrf, authentication, security-testing]
 description: "A TryHackMe walkthrough on vulnerability chaining, combining low-to-medium severity issues into a larger application-security impact."
 excerpt: "Explore how weak test credentials, stored XSS, and missing CSRF protections can combine into an account-takeover risk—and how to report the full chain."

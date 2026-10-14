@@ -1,7 +1,7 @@
 ---
 title: "The Art of Protecting Secrets"
 date: 2026-09-07 22:00:00 +0100
-categories: [DevSecOps]
+categories: [Cybersecurity]
 tags: [secrets-management, information-security, cryptography, devsecops]
 ---
 

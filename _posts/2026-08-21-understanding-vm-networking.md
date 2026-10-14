@@ -3,7 +3,7 @@
 layout: post
 title: "Understanding VM Networking: NAT, Bridged, Host-Only & More"
 date: 2026-08-21 18:00:00 +0100
-categories: [Virtualization]
+categories: [Cybersecurity, Virtualization]
 tags: [virtualization, networking, security-labs, malware-analysis, vmware, virtualbox]
 ---
 
