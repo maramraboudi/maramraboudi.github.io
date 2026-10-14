@@ -44,7 +44,7 @@ Practice in intentionally vulnerable applications, local labs, or platforms wher
 
 **Notes:** Useful for learning fundamentals and experimenting with tools such as SQLMap, Burp Suite, and XSStrike.
 
-**Website:** [DVWA](http://www.dvwa.co.uk/)
+**Website:** [DVWA project](https://github.com/digininja/DVWA)
 
 ### 2. OWASP Juice Shop
 
@@ -68,7 +68,7 @@ Practice in intentionally vulnerable applications, local labs, or platforms wher
 
 **Notes:** Useful for beginner and intermediate learners; it can be run locally or in a virtual machine.
 
-**Website:** [bWAPP](http://www.itsecgames.com/)
+**Website:** [bWAPP project](https://github.com/raesene/bWAPP)
 
 ### 5. Security Shepherd
 
