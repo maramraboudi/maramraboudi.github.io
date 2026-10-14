@@ -1,6 +1,7 @@
 ---
 layout: categories
-title: Categories
+title: Cybersecurity
+category: Cybersecurity
 icon: fas fa-stream
 order: 6
 ---

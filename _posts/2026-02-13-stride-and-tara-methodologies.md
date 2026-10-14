@@ -2,7 +2,7 @@
 layout: post
 title: "STRIDE and TARA: From Threat Discovery to Risk Prioritization"
 date: 2026-02-13 17:39:00 +0100
-categories: [Risk Management]
+categories: [Cybersecurity]
 tags: [threat-modeling, risk-management, STRIDE, TARA, application-security]
 ---
 
